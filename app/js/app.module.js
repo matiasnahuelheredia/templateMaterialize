@@ -8,7 +8,8 @@
     .module('app',[
         'ui.materialize',
         'ui.router',
-        'ngResource'
+        'ngResource',
+        'leaflet-directive'
     ]);
 
 })();
